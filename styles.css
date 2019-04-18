@@ -1,0 +1,139 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #4f4d4a;
+}
+
+input {
+        font-family: 'Roboto', sans-serif;        
+}
+
+.top {
+    padding: 20px;
+    background-color: #a3c69d;    
+}
+
+hr {
+    margin: 0px;
+    height: 4px;
+    background-color: black;
+    border: none;
+}
+
+.gray {
+    margin: 0px;
+    height: 1px;
+    background-color: #c6c1b8;
+    border: none;    
+}
+
+.top2 {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 10px;
+    font-size: 64px;
+}
+
+.text {
+    font-family: 'Dokdo', cursive;
+    font-size: 72px;
+}
+
+.banner {
+    padding: 0px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.image {
+    opacity: 0.25;
+    transition: 3s;
+}
+
+
+
+.msg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: none;
+    background-color: #a3c69d;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+    color: #4f4d4a;
+}
+
+.inputs {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.space {
+    width: 100px;    
+}
+
+.insert {
+    display: flex;
+    justify-content: space-between;
+}
+
+.one {
+    padding-left: 500px;
+    padding-top: 10px;
+}
+
+.two {
+    padding-right: 500px;
+    padding-top: 10px;
+
+}
+
+.products {
+}
+
+.itm {
+    display: flex;   
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+}
+
+.space {
+    display: block;   
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#space {
+    width: 25%;    
+}
+
+.title {
+    width: 10%;    
+}
